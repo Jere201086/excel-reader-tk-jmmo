@@ -18,4 +18,6 @@ The CoachView Read Excel converts a base 64 encoded input String to a ByteArrayI
 
 *figure 1*
 
-On the figure 1 step1 the users uploads the xls/xlsx file to the IBM BAW and the IBM BAW uploads files to the content Manager, after that one step3 the service call is executed to get the base64 encoded data from Content Manager and convert it into JSON objects using the inlineJavascript at the CoachView.
+On the figure 1 step 1 the user uploads the xls/xlsx files to the IBM BAW and the IBM BAW upload this files to the Content Manager, after that on step 3 the service call is executed to get the base64 encoded data from Content Manager and convert it into JSON objects using the inlineJavascript at the CoachView.
+
+## Example
