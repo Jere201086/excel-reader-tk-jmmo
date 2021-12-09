@@ -12,7 +12,7 @@ You can find the Javascript code in the GitHub repository
 
 The CoachView Read Excel converts a base 64 encoded input String to a ByteArrayInputStream and reads the excel data. Using [XLSX Library](https://www.npmjs.com/package/xlsx) , the class iterates the workbook converting the excel input to a JSONObject tree which is later returned as JSON string.
 
-##How it Works
+## How it Works
 
 ![figure 1](https://github.com/Jere201086/excel-reader-tk-jmmo/blob/main/img/excelReader1.png) 
 
